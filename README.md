@@ -1,7 +1,7 @@
 # Marco Ramón Torrel Villanueva
 ### 🤓 Un humilde obrero digital
 
-Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilusos.blogspot.com/2021/04/como-se-escribe-un-cv.html) sobre una de mis grandes pasiones, la gran W.W.WEBIÑA — [Formidable Mundo Digital!!](https://cronicasdeilusos.blogspot.com/2025/02/locos-por-la-tecnologia.html)
+Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilusos.blogspot.com/2021/04/como-se-escribe-un-cv.html) sobre una de mis grandes pasiones, los ecosistemas binarios de la gran W.W.WEBIÑA — [Formidable Mundo Digital!!](https://cronicasdeilusos.blogspot.com/2025/02/locos-por-la-tecnologia.html)donde la magia se hace realidad con un simple comando, y cuando eso se une a la creatividad y a mi clásico estilo literario, el resultado es algo desenfadadamente delicioso.
 
 ![foto papi churro](https://raw.githubusercontent.com/RamonTrrl/pagina-homenaje/main/foto%20papi%20churro%20vectorizada.jpeg)
 
