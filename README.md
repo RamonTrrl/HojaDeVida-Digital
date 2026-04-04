@@ -46,11 +46,11 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 
 | Proyecto | Descripción | Ver en vivo |
 | --- | --- | --- |
-| 🖼️ Página de Homenaje | Tribute Page freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-homenaje/) |
-| 📝 Página Desapuntes | Technical Documentation Page — certificación freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-Desapuntes/) |
-| 🚀 Landing Page | Landing Page freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-landing/) |
-| 📋 Survey Form | Survey Form — certificación freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/SurveyFCC/) |
-| 💼 Portafolio Personal | Personal Porfolio Webpage freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/portfolio/) |
+| 🖼️ Página de Homenaje | Tribute Page - FreeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-homenaje/) |
+| 📝 Página Desapuntes | Technical Documentation Page - FreeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-Desapuntes/) |
+| 🚀 Landing Page | Landing Page - FreeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-landing/) |
+| 📋 Survey Form | Survey Form - FreeCodeCamp | [ver proyecto](https://ramontrrl.github.io/SurveyFCC/) |
+| 💼 Portafolio Personal | Personal Porfolio Webpage - FreeCodeCamp | [ver proyecto](https://ramontrrl.github.io/portfolio/) |
 
 ---
 
