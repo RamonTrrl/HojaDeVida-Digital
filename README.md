@@ -42,10 +42,15 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 
 ## 💻 Proyectos Digitales
 
+### 🎓 Los siguientes proyectos corresponde a mi certificación en Responsive Web Design — freeCodeCamp
+
 | Proyecto | Descripción | Ver en vivo |
-|---|---|---|
-| 🗂️ Portafolio Personal | Proyecto de certificación freeCodeCamp | [ramontrrl.github.io/portfolio](https://ramontrrl.github.io/portfolio/) |
-| 🎭 Página de Homenaje | Proyecto de certificación freeCodeCamp | [ramontrrl.github.io/pagina-homenaje](https://ramontrrl.github.io/pagina-homenaje/) |
+| --- | --- | --- |
+| 🖼️ Página de Homenaje | Proyecto de certificación freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-homenaje/) |
+| 📝 Página Desapuntes | Documentación técnica — certificación freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-Desapuntes/) |
+| 🚀 Landing Page | Proyecto de certificación freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/pagina-landing/) |
+| 📋 Survey Form | Formulario de encuesta — certificación freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/SurveyFCC/) |
+| 💼 Portafolio Personal | Proyecto de certificación freeCodeCamp | [ver proyecto](https://ramontrrl.github.io/portfolio/) |
 
 ---
 
