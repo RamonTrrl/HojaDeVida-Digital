@@ -65,4 +65,4 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 
 ---
 
-*En esta hojita de vida el contenido [sin duda irrelevante] [(® © ™) los derechos y también izquierdos](https://cronicasdeilusos.blogspot.com/2022/09/marcas-registradas-globales.html) no están protegidos ni cercados. Cualquier copia, calco, alteración o profanación es bienvenida — somos [ciudadanos globales y partidarios de los CC](https://cronicasdeilusos.blogspot.com/2021/12/mi-periodico-mural.html)* 😄
+*En esta hojita de vida el contenido [sin duda irrelevante] [(® © ™) los derechos y también izquierdos](https://cronicasdeilusos.blogspot.com/2022/09/marcas-registradas-globales.html) no están protegidos ni cercados. Cualquier copia, calco, alteración o profanación es bienvenida, siempre y cuando el objtivo no sea bursátil — no está demás decir que somos [ciudadanos globales y partidarios de los CC](https://cronicasdeilusos.blogspot.com/2021/12/mi-periodico-mural.html)* 😄
