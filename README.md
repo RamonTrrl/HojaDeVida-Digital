@@ -7,7 +7,7 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 
 ---
 
-## 👤 Sobre mí
+## 👤 Acerca del: Sr. Desconocido
 
 - **Nombre**: Marco Ramón Torrel Villanueva
 - **Profesión**: Ing. Agrónomo MSc. Producción y Extensión Agrícola
@@ -19,7 +19,7 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 
 ---
 
-## 🎓 Educación Digital
+## 🎓 Educación en "Hierbitas Digitales"
 
 | Curso | Emitido por |
 |---|---|
@@ -54,7 +54,7 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 
 ---
 
-## 🛠️ Habilidades Digitales
+## 🛠️ Habilidades en "Hierbitas Digitales"
 
 - Manejo de la suite ofimática: procesadores de texto, hojas de cálculo, diseño, audio-vídeo
 - Desarrollo Web Front End: HTML5, CSS3, JavaScript, GitHub
