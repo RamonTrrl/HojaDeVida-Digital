@@ -11,7 +11,7 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 
 - **Nombre**: Marco Ramón Torrel Villanueva
 - **Profesión**: Ing. Agrónomo MSc. Producción y Extensión Agrícola
-- **Correos**:
+- **Correos**: *OJO-OJITO*👀No pinches en ningún correo a menos que las apps de mensajería estén descargadas en tu dispositivo--Sólo cópiala y pégala en el browser!!
   * 📧 ing.mtorrel@hotmail.com
   * 📧 ing.mrtorrel@gmail.com  
   * 📧 RamonTrrl@yandex.com 
