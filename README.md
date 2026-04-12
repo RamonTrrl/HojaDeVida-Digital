@@ -11,8 +11,8 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 ## 👤 Acerca del: Sr. Desconocido
 
 - **Nombre**: Marco Ramón Torrel Villanueva
-- **Profesión**: Ing. Agrónomo MSc. Producción y Extensión Agrícola
-- **Correos**: *OJO-OJITO*👀No pinches en ningún correo a menos que las apps de mensajería estén descargadas en tu dispositivo--Sólo cópiala y pégala en el browser!!
+- **Profesión**: Ing. Agrónomo | MSc. Producción y Extensión Agrícola
+- **Correos**: *OJO-OJITO*👀No pinches en ningún correo a menos que las ***apps de mensajería*** estén descargadas en tu dispositivo--Sólo cópiala y pégala en el browser, en cambio el octocat si te lleva a ese lugar maravilloso, mi perfil 😍!!
   * 📧 ing.mtorrel@hotmail.com
   * 📧 ing.mrtorrel@gmail.com  
   * 📧 RamonTrrl@yandex.com 
@@ -58,13 +58,13 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 ## 🛠️ Habilidades en "Hierbitas Digitales"
 
 - Manejo de la suite ofimática: procesadores de texto, hojas de cálculo, diseño, audio-vídeo
-- Desarrollo Web Front End: HTML5, CSS3, JavaScript, GitHub
+- Desarrollo Web Front End: HTML5, CSS3, JavaScript, GitHub, Py, otro ojito👀 Py y Java solo a nivel básico ... y eso😲 !!
 - Seguridad de redes
 - Blogging, SEO digital, diseño y creación de contenido digital
 
 ---
 
-## 📝 Publicaciones Digitales
+## 📝 Publicaciones Digitales (ambos sitios de una dudosa reputación)
 
 - [Crónicas de un Observador](https://cronicasdeilusos.blogspot.com/)
 - [Jifi Net](https://jifinetcom.wordpress.com/)
