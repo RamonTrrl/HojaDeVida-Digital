@@ -4,7 +4,7 @@
 Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilusos.blogspot.com/2021/04/como-se-escribe-un-cv.html) sobre una de mis grandes pasiones, los ecosistemas binarios de la gran W.W.WEBIÑA — [Formidable Mundo Digital!!](https://cronicasdeilusos.blogspot.com/2025/02/locos-por-la-tecnologia.html) donde la magia se hace realidad con un simple comando, y cuando eso se une a la creatividad y a mi clásico estilo literario, el resultado es algo desenfadadamente delicioso.
 <p align="lefth">
 <img src="https://raw.githubusercontent.com/RamonTrrl/HojaDeVida-Digital/main/risas%20avatar%20sin%20fondo.png" width="150"/>
-</p>
+</p>  
 ---
 
 ## 👤 Acerca del: Sr. Desconocido
@@ -16,8 +16,6 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
   * 📧 ing.mrtorrel@gmail.com  
   * 📧 RamonTrrl@yandex.com 
 - **GitHub**: [RamonTrrl](https://github.com/RamonTrrl)
-
----
 
 ## 🎓 Educación en "Hierbitas Digitales"
 
