@@ -2,8 +2,9 @@
 ###   <img src="https://raw.githubusercontent.com/RamonTrrl/RamonTrrl/main/avatar_guinandoSinFondo.webp" width="50" style="border-radius:50%; vertical-align:middle; margin-right:10px"/> Un humilde obrero digital
 
 Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilusos.blogspot.com/2021/04/como-se-escribe-un-cv.html) sobre una de mis grandes pasiones, los ecosistemas binarios de la gran W.W.WEBIÑA — [Formidable Mundo Digital!!](https://cronicasdeilusos.blogspot.com/2025/02/locos-por-la-tecnologia.html) donde la magia se hace realidad con un simple comando, y cuando eso se une a la creatividad y a mi clásico estilo literario, el resultado es algo desenfadadamente delicioso.
-
-![foto papi churro](https://raw.githubusercontent.com/RamonTrrl/pagina-homenaje/main/foto%20papi%20churro%20vectorizada.jpeg)
+<p align="lefth">
+<img src="https://raw.githubusercontent.com/RamonTrrl/HojaDeVida-Digital/main/risas%20avatar%20sin%20fondo.png" width="150"/>
+</p>
 
 ---
 
