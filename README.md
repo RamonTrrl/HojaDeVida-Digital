@@ -5,7 +5,6 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 <p align="lefth">
 <img src="https://raw.githubusercontent.com/RamonTrrl/HojaDeVida-Digital/main/risas%20avatar%20sin%20fondo.png" width="150"/>
 </p>
-
 ---
 
 ## 👤 Acerca del: Sr. Desconocido
