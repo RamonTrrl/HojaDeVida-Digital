@@ -61,7 +61,7 @@ Breve descripción acerca de mí [***curriculum vitae***](https://cronicasdeilus
 
 ---
 
-## 📝 Publicaciones Digitales (ambos sitios de una dudosa reputación)
+## 📝 Publicaciones Digitales (ambos sitios de una dudosa reputación y se prohíbe visitar)
 
 - [Crónicas de un Observador](https://cronicasdeilusos.blogspot.com/)
 - [Jifi Net](https://jifinetcom.wordpress.com/)
